@@ -109,6 +109,9 @@ export default {
                         Have either source audio or clicks/taps in the video. Edited audio only does not count.
                     </p>
                     <p>
+                        Levels can only be accepted if they were verified or created by a GD Medal 2 member, if a level was verified by a GD Medal 2 member but not made by one, then its acceptable and vice versa.
+                    </p>
+                    <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
                     </p>
                     <p>
