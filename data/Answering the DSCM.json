@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+         {
+            "user": "citrag",
+            "link": "https://medal.tv/games/geometry-dash/clips/mfVmT6t2qekjWGvCW?invite=cr-MSwwaFcsMjEyMTU0NjM2",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
