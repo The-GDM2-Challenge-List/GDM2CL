@@ -8,5 +8,23 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Reaction",
+            "link": "https://medal.tv/games/geometry-dash/clips/k2AscSiP8FghNEAa6?invite=cr-MSxrVjEsMjEyMTU0NjM2",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "YourLighy",
+            "link": "https://medal.tv/games/geometry-dash/clips/kJVdeDPB0GM-jkf15?invite=cr-MSxja1EsMTgxNzY3NTk&v=46",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "Screendoe",
+            "link": "https://medal.tv/games/geometry-dash/clips/lqisdPgx7EAxyOWRc?invite=cr-MSxxeDEsMjEyMTU0NjM2",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
