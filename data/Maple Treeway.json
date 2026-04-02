@@ -7,6 +7,11 @@
     "verification": "https://youtu.be/JxjD6ojKWhU",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": [
+    "records": [   {
+            "user": "Squidkid72",
+            "link": "https://medal.tv/games/geometry-dash/clips/mjJlPv06zvgh5zteH?invite=cr-MSxRRTIsMjAxNjg2NTgw&v=14",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
