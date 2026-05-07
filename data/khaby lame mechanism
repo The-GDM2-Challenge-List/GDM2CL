@@ -1,0 +1,24 @@
+{
+    "id": 127493003,
+    "name": "khaby lame mechanism",
+    "author": "Sn0wiscold",
+    "creators": ["Sn0wiscold"],
+    "verifier": "Sn0wiscold",
+    "verification": "https://youtu.be/MtjF994ooEY",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Delta",
+            "link": "https://medal.tv/games/geometry-dash/clips/mmDztkaRnFPke4fet?invite=cr-MSxxem0sMjU2MDQyMDAx&v=20",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Bigpapi365",
+            "link": "https://medal.tv/games/geometry-dash/clips/mngtHUL3d0XzxoLbV?invite=cr-MSx6cWksMTk1MTk1ODA3",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
